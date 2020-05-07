@@ -31,6 +31,6 @@
       * ER diadrams 
       * Local api for Demo 1
 
-###  *Everyone was had the responsubility to check every one task and above
+###  *Everyone had the responsubility to check everyone task and aprove & make/suggest things to be added 
 
 
