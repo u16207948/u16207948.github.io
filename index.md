@@ -1,16 +1,17 @@
+#Home page
+
+
+* https://u16040865.github.io- automatic!
+  [u16040865](https://u16040865.github.io)
+  
+ * https://rammbudavictor.wixsite.com/website- automatic!
+  [u16207948](https://rammbudavictor.wixsite.com/website)
+
+
 # Manangement tool 
 
 ![GitHub Logo](IMG_20200507_191257.jpg)
 Format: ![Alt Text](url)
 
-<html lang="en">
-<head>
-  <meta charset="utf-8">
 
-  <title>The HTML5 Herald</title>
-  <meta name="description" content="The HTML5 Herald">
-  <meta name="author" content="SitePoint">
 
-  <link rel="stylesheet" href="css/styles.css?v=1.0">
-
-</head>
