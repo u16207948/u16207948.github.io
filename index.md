@@ -1,7 +1,7 @@
 # Manangement tool 
 
-
-<!doctype html>
+![GitHub Logo](IMG_20200507_191257.jpg)
+Format: ![Alt Text](url)
 
 <html lang="en">
 <head>
