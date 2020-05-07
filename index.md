@@ -20,7 +20,10 @@
 
 ![GitHub Logo](IMG_20200507_191340.jpg)
 
-
+* KEY:
+  * KM (Kevin Mynhardt) u17151849
+  * RR(you) (Rammbuda Rilwele) u16207948
+  * RG (Rudolf van Graan) u16040865
 
 
 
