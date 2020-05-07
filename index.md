@@ -1,4 +1,4 @@
-# Home page
+# Theta Notification
 
 
 ### Personal site
@@ -21,9 +21,16 @@
 ![GitHub Logo](IMG_20200507_191340.jpg)
 
 * KEY:
-  * KM (Kevin Mynhardt) u17151849
-  * RR(you) (Rammbuda Rilwele) u16207948
+  * KM (Kevin Mynhardt) u17151849 
+       * API 
+       * Local api for Demo 1
+  * RR(you) (Rammbuda Rilwele) u16207948 
+       * Redue Demo 1 work And the landing page
+       * Local api for Demo 1
   * RG (Rudolf van Graan) u16040865
+      * ER diadrams 
+      * Local api for Demo 1
 
+###  *Everyone was had the responsubility to check every one task and above
 
 
